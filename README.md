@@ -7,10 +7,10 @@ Growthgaze ist ein interaktives Finanz-/KPI-Dashboard, welches visuelle Startup 
 
 ## Team
 
-@Chai   1119827
-@Nikan  1125742
-@Wael   1128163
-@Luan   1117954
+@Chai   
+@Nikan  
+@Wael   
+@Luan   
 
 ## Architektur
 
